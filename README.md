@@ -76,9 +76,27 @@ The goal of this project is to demonstrate the **end-to-end data analytics workf
 
 ---
 
+## 📂 Project Structure
+netflix-data-visualization/  
+│  
+├── data/  
+│ ├── raw/  
+│ │ └── netflix_raw_data.xlsx  
+│ └── processed/  
+│ └── netflix_cleaned_data.xlsx  
+│
+├── dashboards/  
+│ └── netflix_tableau_dashboard.png  
+│
+├── presentation/  
+│ └── netflix_data_analysis_presentation.pptx  
+│
+└── README.md  
+
 ## 🖼️ Dashboard Preview
 
-![Netflix Tableau Dashboard](dashboards/netflix_tableau_dashboard.png)
+![Netflix Dashboard](./dashboards/Dashboard1.png)  
+![Netflix Dashboard](./dashboards/Dashboard2.png)
 
 ---
 
@@ -95,6 +113,11 @@ The goal of this project is to demonstrate the **end-to-end data analytics workf
 - **Course:** Data Science Project Seminar – Driving Corporate Performance
 
 ---
+
+## 🔄 Netflix Data Visualization Presentation
+
+[Netflix_data_visualization.pptx](https://github.com/user-attachments/files/24689433/Netflix_data_visualization.pptx)
+
 
 ## 🤝 Contact
 - 💼 LinkedIn: [Md. Abdullah Al Noman](https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155)
