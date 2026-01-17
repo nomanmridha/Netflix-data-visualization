@@ -47,15 +47,29 @@ The goal of this project is to demonstrate the **end-to-end data analytics workf
 - Filtered unnecessary columns
 - Created derived columns for better analysis
 - Stored cleaned data separately for transparency
+## 📊 Dataset preprocessing overview
+
+![Dataset Preprocessing Overview](./dashboards/Dataset_Preprocessed_Overview.png)
 
 ### 3️⃣ Data Visualization
 - Connected processed Excel data to Tableau
 - Designed interactive dashboards
 - Focused on clarity and insight-driven visuals
+  
+![Number of Subscription by Gender](./dashboards/Number_of_Subscription_by_gender.jpg)  ![Top Watched Content by IP Mismatch](./dashboards/Top_Watched_Content_by_IP_Mismatch.jpg)  ![Location Wise Subscription Mismatch Risk](./dashboards/Location_wise_Subscription_Mismatch_Risk.jpg)
 
-### 4️⃣ Presentation
+### 4️⃣ Netflix Data Visualization Presentation
 - Summarized findings in PowerPoint
 - Created slides suitable for academic and business audiences
+
+![Presentation Thumbnail](./presentation/Netflix_Data_Analysis_Presentation.png)
+
+[Netflix_data_visualization.pptx](https://github.com/user-attachments/files/24689433/Netflix_data_visualization.pptx)
+
+## 🖼️ Dashboard Preview
+
+![Netflix Dashboard](./dashboards/Dashboard1.png)  
+![Netflix Dashboard](./dashboards/Dashboard2.png)
 
 ---
 
@@ -93,11 +107,6 @@ netflix-data-visualization/
 │
 └── README.md  
 
-## 🖼️ Dashboard Preview
-
-![Netflix Dashboard](./dashboards/Dashboard1.png)  
-![Netflix Dashboard](./dashboards/Dashboard2.png)
-
 ---
 
 ## 📎 Project Deliverables
@@ -114,9 +123,21 @@ netflix-data-visualization/
 
 ---
 
-## 🔄 Netflix Data Visualization Presentation
+## 🧩 How to View This Project
 
-[Netflix_data_visualization.pptx](https://github.com/user-attachments/files/24689433/Netflix_data_visualization.pptx)
+1. Open `data/raw/netflix_raw_data.xlsx` to see original dataset  
+2. Open `data/processed/netflix_cleaned_data.xlsx` to see cleaned data  
+3. View all dashboard images in the `dashboards/` folder  
+4. Open the PowerPoint file in `presentation/` for full insights
+
+---
+
+## 📎 Conclusions
+
+This analysis shows clear content trends on Netflix over time and provides a basis for strategic decisions on genre focus, regional content expansion, and platform growth patterns.
+
+![Excel](https://img.shields.io/badge/Excel-Data_Preprocessing-green?logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)
 
 
 ## 🤝 Contact
